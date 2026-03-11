@@ -1,2 +1,2 @@
 # practice-demo
-This is my forst GitHub repository
+This is my first GitHub repository
